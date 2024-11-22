@@ -27,4 +27,3 @@ spec:
     artifacts:
       paths:
       - k6-test-report.html
-status: {}
